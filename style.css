@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background:url(https://i.pinimg.com/originals/21/7d/a2/217da299cc918fad9b76eb99e4bb75b3.gif);
+    color: #fff;
+}
+.loading {
+    font-size: 2em;
+    font-family: cursive;
+}
+
+.dot1, .dot2, .dot3 {
+    animation: dotAnimation 2s infinite;
+    opacity: 0;
+}
+
+@keyframes dotAnimation {
+    0%, 20% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
