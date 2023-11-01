@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img width="370px" heigth="420px" src="https://github.com/GFerrDev/GFerrDev/assets/107577067/743e49b8-f687-4892-b879-eda769dcc5cd"></img>
+
+
 <!--
 **GFerrDev/GFerrDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
